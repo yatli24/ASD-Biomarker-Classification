@@ -21,5 +21,5 @@ The data and previous model come from Hewitson *et al.* (2021). *Blood biomarker
     -   `previous-analysis.R` concise version of code used to replicate published analysis
 
 -   `results` contains
-    - `report.qmd` QMD Report file
+    - `report.qmd` QMD file with improved model code
     - `report.html` Rendered HTML Report
