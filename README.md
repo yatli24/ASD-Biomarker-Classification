@@ -23,3 +23,5 @@ The data and previous model come from Hewitson *et al.* (2021). *Blood biomarker
 -   `results` contains
     - `report.qmd` QMD file with improved model code
     - `report.html` Rendered HTML Report
+
+Authors: Ivan Li, Mai Uyen Huynh, Valerie De La Fuente, Reese Karo
