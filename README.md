@@ -1,4 +1,4 @@
-# ForSer ASD Biomarker Classification Model
+# ForSerum ASD Biomarker Classification Model
 
 Testing Accuracy: 77%
 
